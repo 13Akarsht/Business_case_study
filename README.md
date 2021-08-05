@@ -1,2 +1,3 @@
 # Business_case_study
-t
+
+This is my report on business case study on 4 different Business problems.
